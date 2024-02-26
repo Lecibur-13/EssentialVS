@@ -11,7 +11,7 @@ Before using this configuration, please ensure you have the following extensions
 
 1. [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 2. [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
-3. [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+3. [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 ## Usage
 
