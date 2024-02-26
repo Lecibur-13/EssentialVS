@@ -1,0 +1,63 @@
+{
+  "workbench.editor.empty.hint": "hidden",
+  "window.commandCenter": false,
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.minimap.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.accessibilitySupport": "off",
+  "editor.scrollbar.vertical": "hidden",
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.activityBar.location": "hidden",
+  "editor.tabSize": 3,
+  
+  // "workbench.statusBar.visible": false, // ! Hide status bar
+  // "window.titleBarStyle": "native", // ! Hide title bar
+  
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".split-view-view:first-child .pane-header": "display: none !important;",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;",
+    ".decorationsOverviewRuler": "display: none;",
+    ".monaco-editor .scroll-decoration": "box-shadow: none;",
+    ".editor-actions": "display: none",
+  },
+
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 48,
+    "itemMargin": 8,
+    "itemSize": 32
+  },
+
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 11,
+      "y": 10
+    },
+    "frame": false,
+  },
+
+  "apc.header": {
+    "height": 36
+  },
+
+  "apc.listRow": {
+    "height": 24
+  },
+  "window.menuBarVisibility": "compact",
+  "git.autofetch": true,
+  "terminal.integrated.env.windows": {},
+}
